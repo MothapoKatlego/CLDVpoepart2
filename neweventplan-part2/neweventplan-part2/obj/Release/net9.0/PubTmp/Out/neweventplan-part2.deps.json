@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "neweventplan-part2/1.0.0": {
+        "runtime": {
+          "neweventplan-part2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "neweventplan-part2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

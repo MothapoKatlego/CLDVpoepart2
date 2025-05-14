@@ -1,0 +1,7 @@
+C:\Users\lab_services_student\Desktop\CLDV6211Part1\neweventplan\obj\Release\net9.0\PubTmp\Out\neweventplan.exe
+C:\Users\lab_services_student\Desktop\CLDV6211Part1\neweventplan\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\lab_services_student\Desktop\CLDV6211Part1\neweventplan\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\lab_services_student\Desktop\CLDV6211Part1\neweventplan\obj\Release\net9.0\PubTmp\Out\neweventplan.dll
+C:\Users\lab_services_student\Desktop\CLDV6211Part1\neweventplan\obj\Release\net9.0\PubTmp\Out\neweventplan.deps.json
+C:\Users\lab_services_student\Desktop\CLDV6211Part1\neweventplan\obj\Release\net9.0\PubTmp\Out\neweventplan.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\CLDV6211Part1\neweventplan\obj\Release\net9.0\PubTmp\Out\neweventplan.pdb
